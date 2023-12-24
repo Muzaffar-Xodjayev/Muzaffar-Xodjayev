@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=muzaffar-xadjayev&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=radical&show=reviews,discussions_started,discussions_answered">
+    <img src="https://github-readme-stats.vercel.app/api?username=muzaffar-xadjayev&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=buefy-dark&show=reviews,discussions_started,discussions_answered">
     <br>
 
-<img src="https://streak-stats.demolab.com?user=muzaffar-xadjayev&theme=radical&hide_border=true&card_width=500px">
+<img src="https://streak-stats.demolab.com?user=muzaffar-xadjayev&theme=buefy-dark&hide_border=true&card_width=500px">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzaffar-xadjayev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=500px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzaffar-xadjayev&show_icons=true&locale=en&layout=compact&theme=buefy-dark&hide_border=true&card_width=500px"/>
   </p>
