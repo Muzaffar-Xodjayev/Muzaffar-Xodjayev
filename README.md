@@ -1,18 +1,18 @@
-# Saifiddinov Bexruz - GitHub Profile
+# Xadjayev Muzaffar - GitHub Profile
 
-Hello! 👋 I am Saifiddinov Behruz, a young software engineer with 2 years of active experience in the field of development.
+Hello! 👋 I am Xadjayev Muzaffar, a young software engineer with 1 years of active experience in the field of development.
 
 ## Experience and Technologies
 
-- **Experience:** 2 years
+- **Experience:** 1 years
 - **Programming Languages:** Python, JavaScript
 - **Databases:** SQL, PostgreSQL, Sqlite3
-- **Frameworks and Libraries:** Aiogram, Aiohttp, Django, Django Rest Framework, Celery
-- **Tools:** requests, bs4, Selenium, Redis, Nginx, Linux
+- **Frameworks and Libraries:** Aiogram, Aiohttp, Django, Django Rest Framework
+- **Tools:** requests, bs4, Selenium, Linux
 
 ## Soft Skills
 
-Outside of my professional activities, I enjoy console games and indulge in swimming at the pool.
+Apart from my professional activities, I am so pretty keen on play football and console games.
 
 ## Education
 
@@ -20,8 +20,8 @@ Graduated from college with a specialization in accounting.
 
 ## Work Experience
 
-- **Python Mentor at Nits School** (8 month)
-- **Python Backend Mentor at Mars IT School** (7 month and work now)
+- **Frontend Assistant Mentor at Nits School** (7 month)
+- **Backend Developer at startup team** (6 month)
   
 ## Portfolio
 
