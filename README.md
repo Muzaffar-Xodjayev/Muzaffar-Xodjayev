@@ -76,14 +76,6 @@ Graduated from college with a specialization in accounting.
     height="40"
   />
 </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-    alt="nginx"
-    width="40"
-    height="40"
-  />
-</a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -115,13 +107,6 @@ Graduated from college with a specialization in accounting.
     width="40"
     height="40"
   />
-</a>
-<a href="https://redis.io" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-    alt="redis"
-    width="40"
-    height="40"/>
 </a>
 </p>
 
