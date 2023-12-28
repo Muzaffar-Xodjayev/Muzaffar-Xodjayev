@@ -25,8 +25,8 @@ Graduated from college with a specialization in accounting.
   
 ## Portfolio
 
-1. **TarasivkaWebApp** - [tarasivski-kovbasy.com.ua](https://tarasivski-kovbasy.com.ua/)
-   - Website for a Ukrainian workshop specializing in wholesale sales.
+1. **E-Auction** - [e-auction.uz](http://eauctionuz.pythonanywhere.com/)
+   - Website for a sale product by auction and you create own product
 
 2. **ATT-KAFEDRA-WEB** - [att.nammqi.uz](https://att.nammqi.uz/)
    - Website for a university department with electronic lessons presented directly on the site.
