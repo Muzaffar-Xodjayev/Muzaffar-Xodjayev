@@ -25,10 +25,10 @@ Graduated from college with a specialization in accounting.
   
 ## Portfolio
 
-1. **E-Auction** - [e-auction.uz](http://eauctionuz.pythonanywhere.com/)
+1. **E-Auction** - [e-auction](http://eauctionuz.pythonanywhere.com/)
    - Website for a sale product by auction and you create own product
 
-2. **ATT-KAFEDRA-WEB** - [att.nammqi.uz](https://att.nammqi.uz/)
+2. **DoctorM** - [doctorm](https://doctorm.pythonanywhere.com/)
    - Website for a university department with electronic lessons presented directly on the site.
 
 3. **Osago-Bot** - [t.me/Osagoa_bot](https://t.me/Osagoa_bot)
