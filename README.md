@@ -29,7 +29,7 @@ Graduated from college with a specialization in accounting.
    - Website for a sale product by auction and you create own product
 
 2. **DoctorM** - [doctorm](https://doctorm.pythonanywhere.com/)
-   - Website for a university department with electronic lessons presented directly on the site.
+   - Website for a hospital call center and you get first aid from use it
 
 3. **Osago-Bot** - [t.me/Osagoa_bot](https://t.me/Osagoa_bot)
    - Telegram bot for purchasing insurance and other services for automobiles.
