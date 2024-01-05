@@ -16,7 +16,7 @@ Apart from my professional activities, I am so pretty keen on play football and 
 
 ## Education
 
-Graduated from college with a specialization in accounting.
+Graduate of Middle School
 
 ## Work Experience
 
