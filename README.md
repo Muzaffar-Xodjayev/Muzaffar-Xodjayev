@@ -1,4 +1,4 @@
-# Xadjayev Muzaffar - GitHub Profile
+# Xodjayev Muzaffar - GitHub Profile
 
 Hello! 👋 I am Xadjayev Muzaffar, a young software engineer with 1 years of active experience in the field of development.
 
