@@ -31,12 +31,6 @@ Graduate of Middle School
 2. **DoctorM** - [doctorm](https://doctorm.pythonanywhere.com/)
    - Website for a hospital call center and you get first aid from use it
 
-3. **Osago-Bot** - [t.me/Osagoa_bot](https://t.me/Osagoa_bot)
-   - Telegram bot for purchasing insurance and other services for automobiles.
-
-4. **Probiv-Bot** - [t.me/ru_probiv_bot](https://t.me/ru_probiv_bot)
-   - Telegram bot for data lookup.
-
 ## Technology Icons
 
 <p>
