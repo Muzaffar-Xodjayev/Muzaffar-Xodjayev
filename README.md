@@ -1,10 +1,10 @@
 # Xodjayev Muzaffar - GitHub Profile
 
-Hello! 👋 I am Xadjayev Muzaffar, a young software engineer with 1 years of active experience in the field of development.
+Hello! 👋 I am Xadjayev Muzaffar, a young software engineer with 1+ years of active experience in the field of development.
 
 ## Experience and Technologies
 
-- **Experience:** 1 years
+- **Experience:** 1+ years
 - **Programming Languages:** Python, JavaScript
 - **Databases:** SQL, PostgreSQL, Sqlite3
 - **Frameworks and Libraries:** Aiogram, Aiohttp, Django, Django Rest Framework
@@ -25,11 +25,14 @@ Graduate of Middle School
   
 ## Portfolio
 
-1. **E-Auction** - [e-auction](http://eauctionuz.pythonanywhere.com/)
-   - Website for a sale product by auction and you create own product
-
-2. **DoctorM** - [doctorm](https://doctorm.pythonanywhere.com/)
+1. **DoctorM** - [doctorm](https://doctorm.pythonanywhere.com/)
    - Website for a hospital call center and you get first aid from use it
+
+2. **Tezkor Pochta** - [tezkorpochta](https://tezkorpochta.pythonanywhere.com/)
+   - Delivery service for move products to another area
+
+3. **E-Auction** - [e-auction](http://eauctionuz.pythonanywhere.com/)
+   - Website for a sale product by auction and you create own product
 
 ## Technology Icons
 
@@ -123,3 +126,4 @@ Thanks for visiting my profile! 🌟
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzaffar-xadjayev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=500px"/>
   </p>
+
