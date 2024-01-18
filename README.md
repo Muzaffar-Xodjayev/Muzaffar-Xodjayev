@@ -115,7 +115,7 @@ If you have any ideas or suggestions, I'd be happy to hear them! Let's create so
 
 Thanks for visiting my profile! 🌟
 
-l
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=muzaffar-xadjayev&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered">
     <br>
