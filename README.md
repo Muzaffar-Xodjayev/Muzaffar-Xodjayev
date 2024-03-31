@@ -13,7 +13,7 @@ Hello! 👋 I am Xodjayev Muzaffar, a young software engineer with 1+ years of a
 
 ## Soft Skills
 
-Apart from my professional activities, I am so pretty keen on play football and console games.
+Apart from my professional activities, I am so pretty keen on play football and console games and I'm also good at in communication
 
 ## Education
 
@@ -33,7 +33,10 @@ Student of High School
    - Delivery service for move products to another area
 
 3. **E-Auction** - [e-auction](http://eauctionuz.pythonanywhere.com/)
-   - Website for a sale product by auction and you create own product
+   - Website for a sale product by auction and you create own product. Although its design isn't good, it is more functional.
+
+4. **TeleCure** - [telecure_bot](https://t.me/TeleCure_bot)
+   - Telegram Bot for meet with doctor from abroad. It has two side, one for patient and another one for doctors. One of my counterpart created its API and I built it via          that API. I suggest to use it!
 
 ## Technology Icons
 
