@@ -1,5 +1,5 @@
 # Xodjayev Muzaffar - GitHub Profile
-<img src="https://komarev.com/ghpvc/?username=muzaffar-xadjayev&label=Profile%20views&color=0e75b6&style=flat" alt="muzaffar-xadjayev" />
+<img src="https://komarev.com/ghpvc/?username=muzaffar-xodjayev&label=Profile%20views&color=0e75b6&style=flat" alt="muzaffar-xadjayev" />
 
 Hello! 👋 I am Xodjayev Muzaffar, a young software engineer with 1+ years of active experience in the field of development.
 
@@ -121,13 +121,13 @@ Thanks for visiting my profile! 🌟
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=muzaffar-xadjayev&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered">
+    <img src="https://github-readme-stats.vercel.app/api?username=muzaffar-xodjayev&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered">
     <br>
 
-<img src="https://streak-stats.demolab.com?user=muzaffar-xadjayev&theme=tokyonight&hide_border=true&card_width=500px">
+<img src="https://streak-stats.demolab.com?user=muzaffar-xodjayev&theme=tokyonight&hide_border=true&card_width=500px">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzaffar-xadjayev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=500px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzaffar-xodjayev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=500px"/>
   </p>
 
