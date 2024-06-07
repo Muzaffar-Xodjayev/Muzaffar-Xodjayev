@@ -17,7 +17,7 @@ Apart from my professional activities, I am so pretty keen on play football and 
 
 ## Education
 
-Student of Secondary School
+Student of High School
 
 ## Work Experience
 
