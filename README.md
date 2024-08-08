@@ -23,6 +23,7 @@ Student of High School
 
 - **Frontend Assistant Mentor at Nits School** (7 month)
 - **Backend Developer at startup team** (6 month)
+- **Intern at Realsoft LLC** (continue)
   
 ## Portfolio
 
