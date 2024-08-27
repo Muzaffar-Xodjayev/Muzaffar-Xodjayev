@@ -27,14 +27,15 @@ Student of High School
   
 ## Portfolio
 
-1. **DoctorM** - [doctorm](https://doctorm.pythonanywhere.com/)
+
+1. **Oson Test** - [oson-test](https://oson-test.uz/)
+   - Website for solve quiz with much more functionality, it's good for teacher and also students. I belong to its backend, backend was written in DRF.
+
+2. **DoctorM** - [doctorm](https://doctorm.pythonanywhere.com/)
    - Website for a hospital call center and you get first aid from use it
 
-2. **Tezkor Pochta** - [tezkorpochta](https://tezkorpochta.pythonanywhere.com/)
+3. **Tezkor Pochta** - [tezkorpochta](https://tezkorpochta.pythonanywhere.com/)
    - Delivery service for move products to another area
-
-3. **E-Auction** - [e-auction](http://eauctionuz.pythonanywhere.com/)
-   - Website for a sale product by auction and you create own product. Although its design isn't good, it is more functional.
 
 4. **TeleCure** - [telecure_bot](https://t.me/TeleCure_bot)
    - Telegram Bot for meet with doctor from abroad. It has two side, one for patient and another one for doctors. One of my counterpart created its API and I built it via          that API. I suggest to use it!
