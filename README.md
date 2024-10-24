@@ -28,7 +28,7 @@ Student of High School
 ## Portfolio
 
 
-1. **Oson Test** - [oson-test](https://oson-test.uz/)
+1. **Oson Test** - [oson-test](https://oson-test.uz/){:target="_blank"}
    - Website for solve quiz with much more functionality, it's good for teacher and also students. I belong to its backend, backend was written in DRF.
 
 2. **DoctorM** - [doctorm](https://doctorm.pythonanywhere.com/)
