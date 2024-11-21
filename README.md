@@ -31,13 +31,16 @@ Student of High School
 1. **Oson Test** - <a href="https://oson-test.uz/" target="_blank">oson-test</a>
    - Website for solve quiz with much more functionality, it's good for teacher and also students. I belong to its backend, backend was written in DRF.
 
-2. **DoctorM** - <a href="https://doctorm.pythonanywhere.com/" target="_blank">doctorm</a>
+2. **Artel Telegram Bot** - <a href="https://t.me/ArtelNamanganBot" target="_blank">artelbot</a>
+   - This is a telegram bot for Artel Namangan LLC for see all products and manage it.
+
+3. **DoctorM** - <a href="https://doctorm.pythonanywhere.com/" target="_blank">doctorm</a>
    - Website for a hospital call center and you get first aid from use it
 
-3. **Tezkor Pochta** - <a href="https://tezkorpochta.pythonanywhere.com/" target="_blank">tezkorpochta</a>
+4. **Tezkor Pochta** - <a href="https://tezkorpochta.pythonanywhere.com/" target="_blank">tezkorpochta</a>
    - Delivery service for move products to another area
 
-4. **TeleCure** - <a href="https://t.me/TeleCure_bot" target="_blank">telecure bot</a>
+5. **TeleCure** - <a href="https://t.me/TeleCure_bot" target="_blank">telecure bot</a>
    - Telegram Bot for meet with doctor from abroad. It has two side, one for patient and another one for doctors. One of my counterpart created its API and I built it via          that API. I suggest to use it!
 
 ## Technology Icons
