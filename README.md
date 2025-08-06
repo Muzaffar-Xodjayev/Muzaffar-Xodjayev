@@ -24,6 +24,7 @@ Student of High School
 - **Frontend Assistant Mentor at Nits School** (7 month)
 - **Backend Developer at startup team** (6 month)
 - **Intern at Realsoft LLC** (8 month)
+- **Image Processor at SiteLabs LLC** (7 month)
   
 ## Portfolio
 
