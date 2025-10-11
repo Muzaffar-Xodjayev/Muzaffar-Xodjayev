@@ -16,8 +16,7 @@ Hello! 👋 I am Xodjayev Muzaffar, a young software engineer with 1+ years of a
 Apart from my professional activities, I am so pretty keen on play football and console games and I'm also good at in communication
 
 ## Education
-
-Student of High School
+Bachelor's degree at Namangan State Technical University
 
 ## Work Experience
 
@@ -25,6 +24,7 @@ Student of High School
 - **Backend Developer at startup team** (6 month)
 - **Intern at Realsoft LLC** (8 month)
 - **Image Processor at SiteLabs LLC** (7 month)
+- **DevOps Engineer at IFODA Agro Chemistry (continued)
   
 ## Portfolio
 
