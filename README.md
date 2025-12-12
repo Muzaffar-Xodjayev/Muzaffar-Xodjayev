@@ -24,7 +24,7 @@ Bachelor's degree at Namangan State Technical University
 - **Backend Developer at startup team** (6 month)
 - **Intern at Realsoft LLC** (8 month)
 - **Image Processor at SiteLabs LLC** (7 month)
-- **DevOps Engineer at IFODA Agro Chemistry (continued)
+- **DevOps Engineer at IFODA Agro Chemistry** (continued)
   
 ## Portfolio
 
