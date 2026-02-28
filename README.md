@@ -5,7 +5,7 @@ Hello! 👋 I am Xodjayev Muzaffar, a young software engineer with 1+ years of a
 
 ## Experience and Technologies
 
-- **Experience:** 1+ years
+- **Experience:** 2+ years
 - **Programming Languages:** Python, JavaScript
 - **Databases:** SQL, PostgreSQL, Sqlite3
 - **Frameworks and Libraries:** Aiogram, Aiohttp, Django, Django Rest Framework
