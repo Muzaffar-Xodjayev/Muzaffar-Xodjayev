@@ -1,7 +1,7 @@
 # Xodjayev Muzaffar - GitHub Profile
 <img src="https://komarev.com/ghpvc/?username=muzaffar-xodjayev&label=Profile%20views&color=0e75b6&style=flat" alt="muzaffar-xadjayev" />
 
-Hello! 👋 I am Xodjayev Muzaffar, a young software engineer with 1+ years of active experience in the field of development.
+Hello! 👋 I am Xodjayev Muzaffar, a young software engineer with 2+ years of active experience in the field of development.
 
 ## Experience and Technologies
 
