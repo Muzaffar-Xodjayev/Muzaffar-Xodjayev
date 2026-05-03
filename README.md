@@ -9,7 +9,7 @@ Hello! 👋 I am Xodjayev Muzaffar, a young software engineer with 2+ years of a
 - **Programming Languages:** Python, JavaScript
 - **Databases:** SQL, PostgreSQL, Sqlite3
 - **Frameworks and Libraries:** Aiogram, Aiohttp, Django, Django Rest Framework
-- **Tools:** requests, bs4, Selenium, Linux
+- **Tools:** requests, bs4, Selenium, Linux, Docker, VPS|VDS, Github Actions.
 
 ## Soft Skills
 
