@@ -108,7 +108,7 @@ Backend without deployment is half the job. I run the boxes too — and I treat 
 ## 🌟 Featured Projects
 
 ### 🏭 PR_backend — Enterprise Purchase Request System
-Production-grade PR approval platform with an **8-stage role-based workflow** (worker → manager → primary_manager → reviewer → risk_manager → deputy_director → provider_manager → provider), reject / resend logic, multi-manager support per department, Telegram + WebSocket real-time notifications, Excel reports with currency-normalized analytics, and integrated AI-driven market analysis.
+Production-grade PR approval platform with an **8-stage role-based workflow**, reject / resend logic, multi-manager support per department, Telegram + WebSocket real-time notifications, Excel reports with currency-normalized analytics, and integrated AI-driven market analysis.
 - **Stack:** Django 5.2 · DRF · Channels (WebSocket) · Aiogram 3 · Gemini · PostgreSQL · Redis · Docker · Nginx
 - **My role:** Sole backend engineer — workflow modeling, service layer, AI integration, deployment
 
@@ -120,7 +120,7 @@ Backend API for detecting plant diseases from photos using **Gemini Vision**, wi
 
 ### 🏢 Mexmash Stack — Corporate Platform (Mexmash MChJ)
 Corporate platform for Mexmash MChJ. **My work**: backend API + deployment of the entire stack (Next.js site, React admin, Django backend).
-- **Backend (built by me):** Django 5.1 · DRF · Channels · SimpleJWT · PostgreSQL · `django-modeltranslation` · drf-spectacular · multilingual content (uz / ru / en) · real-time CRM board via WebSocket
+- **Backend (contributed):** Django 5.1 · DRF · Channels · SimpleJWT · PostgreSQL · `django-modeltranslation` · drf-spectacular · multilingual content (uz / ru / en) · real-time CRM board via WebSocket
 - **Public site (deployed by me):** Next.js 16 · React 19 · TypeScript
 - **Admin panel (deployed by me):** React 19 · Vite · TypeScript
 - **My role:** Backend architecture & development · Docker / Nginx deployment of all 3 apps · CI/CD pipeline with rollback & Telegram alerts
